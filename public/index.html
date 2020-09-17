@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.dev.js"
+    integrity="sha256-OgiHfllOBEOiWQ2OcBsDncRG2k7QBW9Rs1dB7MH2N2s=" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="styles.css">
+  </link>
+  <title>Document</title>
+</head>
+
+<body>
+  <div class="chat-container">
+    <div class="chat-header">
+      CHAT-APPLICATION
+    </div>
+    <div class="chat-body">
+    </div>
+    <div class="chat-footer">
+      <div class="text-input">
+        <input class="chat-message-write" type="text" placeholder="type here..." onkeypress="sendMessage()" />
+      </div>
+    </div>
+  </div>
+  <script src="chat.js"></script>
+</body>
+
+</html>
