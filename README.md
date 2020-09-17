@@ -1,7 +1,7 @@
 #### Stack 
-* Node
-* Express
-* Sockets io
+* Node [https://nodejs.org/en/]
+* Express [https://expressjs.com/] 
+* Sockets io [https://socket.io/]
 
 #### Demo
 
