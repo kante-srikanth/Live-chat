@@ -1,6 +1,6 @@
-# CHAT APPLICATION
+STACK : 
+* Node js
 
-#### BASIC CHAT APPLICATION USING SOCKETS IO LIBRARY
 
 ![Demo](videos/demo.gif)
 
