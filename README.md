@@ -14,6 +14,6 @@
 5.Now again open http://localhost:4000/ using any client application ex: firefox
 ```
 
-![Demo](videos/demo.gif)
+![Chat application using sockets io demo video](videos/demo.gif)
 
 
